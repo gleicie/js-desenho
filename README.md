@@ -15,3 +15,5 @@
     <script src="sketch.js"></script>
   </body>
 </html>
+
+ https://creativecommons.org/licenses/by/4.0/
